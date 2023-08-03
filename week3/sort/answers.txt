@@ -1,0 +1,10 @@
+sort1 uses: bubble sort
+
+How do you know?: it takes less time than sort1 but it takes more time than sort2 so it is bubble sort.
+
+sort2 uses: merge sort
+
+How do you know?: it spends less time for each txt file than other sort programs.
+
+sort3 uses: selection sort
+How do you know?: it spends a lot of time for each txt file than other sort programs.
